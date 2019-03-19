@@ -4,6 +4,9 @@ This is a personal project to create a personal cloud IDE using Laravel Framewor
 
 Principally for learning.
 
+## Developers 
+- [Marco Desantes Gutiérrez.](https://github.com/silverzero)
+- [Manuel Gomez Lagostena.](https://github.com/)
 
 ## About Laravel
 

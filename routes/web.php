@@ -13,6 +13,11 @@
 
 Auth::routes();
 
+
+Route::get('/', function () {
+    return "hola";
+});
+
 Route::get('/home', function () {
     return view('home');
 });
